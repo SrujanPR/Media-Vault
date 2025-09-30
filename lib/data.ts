@@ -1092,6 +1092,12 @@ export const manhwaData: MediaData = {
       image: "The Magic Tower's Problematic Child.jpeg",
       link: "https://likemanga.ink/the-magic-tower%E2%80%99s-problem-child-34166/",
     },
+    {
+      id: "76",
+      title: "Life Of A Magic Academy Mage",
+      image: "Magic Academy.webp",
+      link: "https://likemanga.ink/life-of-a-magic-academy-mage-2163/",
+    },
   ],
 }
 
