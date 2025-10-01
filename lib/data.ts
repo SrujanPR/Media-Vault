@@ -1504,5 +1504,11 @@ export const seriesData: MediaItem[] = [
     title: "Marvel Zombies",
     image: "Zombies.jpg",
     link: "",
-  }
+  },
+  {
+    id: "69",
+    title: "The Boys",
+    image: "Boys.jpg",
+    link: "",
+  },
 ]
