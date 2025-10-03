@@ -1145,6 +1145,12 @@ export const seriesData: MediaItem[] = [
     link: "",
   },
   {
+    id: "70",
+    title: "Dark",
+    image: "Dark.jpg",
+    link: "",
+  },
+  {
     id: "8",
     title: "Two and a Half Men",
     image: "Two and a Half Men.jpg",
