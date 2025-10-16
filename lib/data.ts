@@ -1098,6 +1098,12 @@ export const manhwaData: MediaData = {
       image: "Magic Academy.webp",
       link: "https://likemanga.ink/life-of-a-magic-academy-mage-2163/",
     },
+    {
+      id: "77",
+      title: "Chronicles Of The Demon Faction",
+      image: "Demon Faction.webp",
+      link: "https://likemanga.ink/chronicles-of-the-demon-faction-2976/",
+    }
   ],
 }
 
