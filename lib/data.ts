@@ -1523,4 +1523,16 @@ export const seriesData: MediaItem[] = [
     image: "Boys.jpg",
     link: "",
   },
+  {
+    id: "70",
+    title: "Gen V",
+    image: "Gen V.jpg",
+    link: "",
+  },
+  {
+    id: "71",
+    title: "Raising Hope",
+    image: "Hope.jpg",
+    link: "",
+  },
 ]
