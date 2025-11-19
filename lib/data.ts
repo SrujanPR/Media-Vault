@@ -1113,7 +1113,7 @@ export const manhwaData: MediaData = {
     {
       id: "79",
       title: "Divine Ring Descends",
-      image: "Divine.webp",
+      image: "Divine.jpg",
       link: "https://manhwaclan.com/manga/divine-ring-descends-the-strongest-otherworld/",
     },
   ],
