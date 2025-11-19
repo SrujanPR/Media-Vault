@@ -1103,7 +1103,19 @@ export const manhwaData: MediaData = {
       title: "Chronicles Of The Demon Faction",
       image: "Demon Faction.webp",
       link: "https://likemanga.ink/chronicles-of-the-demon-faction-2976/",
-    }
+    },
+    {
+      id: "78",
+      title: "Eternally Regressing Knight",
+      image: "Regressing Knight.webp",
+      link: "https://likemanga.ink/eternally-regressing-knight-22263/"
+    },
+    {
+      id: "79",
+      title: "Divine Ring Descends",
+      image: "Divine.webp",
+      link: "https://manhwaclan.com/manga/divine-ring-descends-the-strongest-otherworld/",
+    },
   ],
 }
 
